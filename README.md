@@ -10,3 +10,7 @@ Also, I need to demonstrate code during job search.
 ***Screenshot***
 
 TBD
+
+***How to use***
+
+TBD
